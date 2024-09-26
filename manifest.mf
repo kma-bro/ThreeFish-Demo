@@ -1,0 +1,4 @@
+Mainfest-version: 1.0 Main-Class: net.malkowscy.threefish.Helper Class-Path: .ThreefishTest.jar
+
+
+
