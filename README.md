@@ -1,0 +1,1 @@
+Chương trình cung cấp giao diện cho phép thêm ảnh định dạng bitmap . Sau khi thiết lập thuật toán Threefish hoặc AES, mode thuật toán (ECB,CBC), khóa mã, người dùng có thể chọn chức năng mã hóa hoặc giải mã ảnh. Kết quả mã hóa/ giải mã sẽ được lưu vào thư mục và hiển thị ở phía bên phải của giao diện chương trình bao gồm hình ảnh đã được xử lí và tốc độ thực thi.   
